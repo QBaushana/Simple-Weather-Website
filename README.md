@@ -28,4 +28,4 @@ A beautifully animated weather dashboard that displays real-time forecasts with 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/weather-dashboard.git
+git clone https://github.com/QBaushana/weather-dashboard.git
