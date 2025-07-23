@@ -2,8 +2,7 @@
 
 A beautifully animated weather dashboard that displays real-time forecasts with dynamic weather-specific animations. Features responsive design, interactive city search, and detailed weather metrics.
 
-![Weather Dashboard Screenshot](<img width="1901" height="907" alt="Image" src="https://github.com/user-attachments/assets/6924eced-48cc-4d8a-8a88-af82ccddf74b" />) <!-- Add actual screenshot later -->
-
+<img width="1901" height="907" alt="Image" src="https://github.com/user-attachments/assets/6924eced-48cc-4d8a-8a88-af82ccddf74b" />
 ## ✨ Features
 
 - **Real-time Weather Display**: Current conditions with temperature, humidity, wind speed, and pressure
